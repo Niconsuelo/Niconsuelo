@@ -36,10 +36,6 @@
 
 
 
-### Outstanding projects
 
-- **Text Analyzer** - Intuitive, accessible and easy to use application for people who require efficiency and speed when listing words and/or characters.]
-
-- **DataXHunter** - HunterxVerse, an informative and interactive platform that allows users to quickly access detailed and organized information about the “Hunter x Hunter” anime universe.
 
 
