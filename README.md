@@ -23,18 +23,9 @@
 
 
 ### Contact:
-![Static Badge](https://img.shields.io/badge/Slack-0?style=for-the-badge&logo=Linkedin&color=%230A66C2)
+
 ![Static Badge](https://img.shields.io/badge/Slack-0?style=for-the-badge&logo=Slack&color=%234A154B)
-
-
-
-### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Niconsuelo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Niconsuelo&theme=tokyonight&hide_border=false)<br/>
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-0?style=for-the-badge&logo=linkedin&color=%230A66C2&link=www.linkedin.com%2Fin%2F%20nicole-aburto-olave-desarrolladora-web)](https://www.linkedin.com/in/nicole-aburto-olave-884abb152/)
 
 
 
