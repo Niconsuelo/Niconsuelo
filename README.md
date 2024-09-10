@@ -16,10 +16,14 @@
 
 
 ### Tools & Technologies
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-dev?style=for-the-badge&logoColor=%230052CC&color=%230052CC) ![VITE](https://img.shields.io/badge/VITE-dev?style=for-the-badge&logoColor=%23646CFF&color=%23646CFF)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-dev?style=for-the-badge&logoColor=%230052CC&color=%230052CC) ![VITE](https://img.shields.io/badge/VITE-dev?style=for-the-badge&logoColor=%23646CFF&color=%23646CFF) 
+![NextJS](https://img.shields.io/badge/NextJS-black?style=flat&logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3ENext.js%3C%2Ftitle%3E%3Cpath%20d%3D%22M18.665%2021.978C16.758%2023.255%2014.465%2024%2012%2024%205.377%2024%200%2018.623%200%2012S5.377%200%2012%200s12%205.377%2012%2012c0%203.583-1.574%206.801-4.067%209.001L9.219%207.2H7.2v9.596h1.615V9.251l9.85%2012.727Zm-3.332-8.533%201.6%202.061V7.2h-1.6v6.245Z%22%2F%3E%3C%2Fsvg%3E
+)
 
 ### Control Version
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%23121011.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### Testing
 ![Static Badge](https://img.shields.io/badge/Jest-0?style=for-the-badge&logo=Jest&color=%23C21325)
