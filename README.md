@@ -8,7 +8,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-dev?style=for-the-badge&logoColor=%233178C6&color=%233178C6) 
 
 ### Front end Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![REACT](https://img.shields.io/badge/REACT-dev?style=for-the-badge&logoColor=%2361DAFB&color=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-dev?style=for-the-badge&logoColor=%23CC6699&color=%23CC6699)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![REACT](https://img.shields.io/badge/REACT-dev?style=for-the-badge&logoColor=%2361DAFB&color=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-dev?style=for-the-badge&logoColor=%23CC6699&color=%23CC6699) ![ANGULAR](https://img.shields.io/badge/ANGULAR-red?style=flat&logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EAngular%3C%2Ftitle%3E%3Cpath%20d%3D%22M16.712%2017.711H7.288l-1.204%202.916L12%2024l5.916-3.373-1.204-2.916ZM14.692%200l7.832%2016.855.814-12.856L14.692%200ZM9.308%200%20.662%203.999l.814%2012.856L9.308%200Zm-.405%2013.93h6.198L12%206.396%208.903%2013.93Z%22%2F%3E%3C%2Fsvg%3E
+)
 
 
 ### Tools & Technologies
