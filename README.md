@@ -11,8 +11,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![REACT](https://img.shields.io/badge/REACT-dev?style=for-the-badge&logoColor=%2361DAFB&color=%2361DAFB) 
 ![SASS](https://img.shields.io/badge/SASS-dev?style=for-the-badge&logoColor=%23CC6699&color=%23CC6699) 
-![ANGULAR](https://img.shields.io/badge/Tailwind-dev?style=for-the-badge&logoColor=%2361DAFB&color=%23DD1100) 
-![Tailwind](https://img.shields.io/badge/ANGULAR-dev?style=for-the-badge&logoColor=%2361DAFB&color=%2306B6D4)
+![ANGULAR](https://img.shields.io/badge/Tailwind-dev?style=for-the-badge&logoColor=%2361DAFB&color=%2306B6D4) 
+![Tailwind](https://img.shields.io/badge/ANGULAR-dev?style=for-the-badge&logoColor=%2361DAFB&color=%23DD1100)
 
 
 ### Tools & Technologies
