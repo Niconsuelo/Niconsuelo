@@ -1,6 +1,6 @@
 # Hi, I'm Nicole Aburto!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Varela+Round&size=27&pause=1000&color=6C08A4B1&random=false&width=435&lines=Front+end+development+student+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Varela+round&size=27&pause=1000&color=6C08A4B1&width=435&lines=Web+developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <img width="8000"  src="https://github.com/Niconsuelo/Niconsuelo/assets/160495918/82300901-d94e-4658-82cb-c202da1fadbe">
 
