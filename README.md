@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Varela+round&size=27&pause=1000&color=6C08A4B1&width=435&lines=Web+developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<img width="8000"  src="https://github.com/Niconsuelo/Niconsuelo/assets/160495918/82300901-d94e-4658-82cb-c202da1fadbe">
+<img width="8000"  src="https://github.com/Niconsuelo/Niconsuelo/blob/main/Nicole%20Aburto%20(1).png?raw=true">
 
 ### Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-dev?style=for-the-badge&logoColor=%233178C6&color=%233178C6) 
